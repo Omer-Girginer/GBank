@@ -61,7 +61,7 @@ const Features = () => {
           </div>
           <h5 className="features__header">Free debit card included</h5>
           <p>
-            Quasi, fugit in cumque cupiditate reprehenderit debitis animi enim
+            Quasi, jneckaoVEA fugit in cumque cupiditate reprehenderit debitis animi enim
             eveniet consequatur odit quam quos possimus assumenda dicta fuga
             inventore ab.
           </p>
