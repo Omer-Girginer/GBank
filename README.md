@@ -13,7 +13,7 @@ Clean and minimal UI
 
 ## GBank Project Video
 
-<video src="./src/assets/screenshot.mp4" controls width="600"></video>
+[Watch Full Video](https://youtu.be/0fBVYRywuIE)
 
 ## 🛠️ Technologies Used
 React
