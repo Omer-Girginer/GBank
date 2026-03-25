@@ -1,9 +1,9 @@
-📝 GBank Atlı React Project
+# 📝 GBank Atlı React Project
 
 This project is a simple React application developed as part of the GBank Atlı assignment.
 It demonstrates core frontend development skills using a clean and structured approach.
 
-🚀 Features
+## 🚀 Features
 Interactive user interface
 Component-based structure
 Responsive design
@@ -12,12 +12,13 @@ Clean and minimal UI
 
 GBank Project Screenshot
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 React
 JavaScript
 HTML
 CSS
-⚙️ Installation
+
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -34,6 +35,6 @@ npm start
 
 This project was created to practice core React concepts such as components, state management, and event handling.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Ömer Girginer
