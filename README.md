@@ -10,7 +10,10 @@ Responsive design
 Clean and minimal UI
 📸 Screenshot
 
-GBank Project Screenshot
+
+## GBank Project Video
+
+[Watch Full Video](https://youtu.be/0fBVYRywuIE)
 
 ## 🛠️ Technologies Used
 React
