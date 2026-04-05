@@ -13,6 +13,7 @@ Clean and minimal UI
 
 ## GBank Project Video
 
+Click here to watch the video.
 [Watch Full Video](https://youtu.be/0fBVYRywuIE)
 
 ## 🛠️ Technologies Used
